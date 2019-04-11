@@ -8,8 +8,11 @@ After you download the project please connect to Internet to get URLs Data
 
 ##Dependencies / Third part liberaries :
 
-Picasso
-ButterKnife
+1-Picasso
+
+2-ButterKnife
+
+
 
 I’m following clean code architecture,I use MVP design Pattern 
 
