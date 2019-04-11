@@ -6,7 +6,7 @@ A simple Activity to show brands and categories
 After you download the project please connect to Internet to get URLs Data 
 
 
-##Dependencies / Third part liberaries :
+## Dependencies / Third part liberaries :
 
 1-Picasso
 
@@ -18,7 +18,8 @@ if your gradle is the same the  code  will work ,
 
 if newer version you will need to update gradle and write implementation instead of compile and  testImplementation insted of testCompile
 
-in gradle files and sync project 
+in gradle files and sync project .
+
 
 
 I’m following clean code architecture,I use MVP design Pattern 
